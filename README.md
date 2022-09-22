@@ -6,12 +6,14 @@ This is a student project and It's about University ranking analysis. For this p
 
 #### Algorithms 
 
-* Regression
+* Classification
+* Prediction 
+* Accuracy test
 
 
-#### Tools 
 
-* Frontend: DASH/Plotly
+#### Methods 
 
-* Backend: Flask
+* BERT transformers
+* One-Vs-Rest strategies
 
